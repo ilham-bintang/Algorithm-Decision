@@ -1,0 +1,31 @@
+<?php
+/**
+ * LRsoft Corp.
+ * http://lrsoft.co.id
+ *
+ * Author : Zaf
+ */
+
+define('URI_PATH', 'https://pasca.pmb.unram.ac.id');
+
+define('APP_INITIAL', 'PMB');
+define('APP_INITIAL2', 'PMB Pascasarjana');
+define('APP_NAME', 'Penerimaan Mahasiswa Baru');
+define('APP_AUTHOR', 'Magister dan Doktor Universitas Mataram');
+
+define('DB_HOST', 'host');
+define('DB_NAME', 'name');
+define('DB_USER', 'user');
+define('DB_PASS', 'pass');
+
+define('DO_SPACE_REGION', '');
+define('DO_SPACE_ENDPOINT', '');
+define('DO_SPACE_BUCKET', '');
+define('DO_SPACE_DIR', '');
+define('DO_SPACE_KEY', '');
+define('DO_SPACE_SECRET', '');
+
+define('MAIL_URI', '');
+define('MAIL_KEY', '');
+
+define('TELEGRAM_BOT_URI', '');
